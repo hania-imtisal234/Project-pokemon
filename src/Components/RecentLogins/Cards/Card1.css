@@ -6,33 +6,19 @@
 }
 
 .photo {
-  height: 120px;
+  height: 158px;
   background-color: #f5f6f8;
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
-  padding-top: 20px;
-  text-align: center;
 }
 
 .logo {
   height: 158px;
 }
 
-.pokemonName {
+h4 {
   height: 44px;
   color: black;
-  font-size: 10px;
-  text-align: center;
-}
-.pokemonWeight {
-  color: black;
-  margin-top: -35px;
-  font-size: 10px;
-  text-align: center;
-}
-.pokemonExperience {
-  color: black;
-  margin-top: -40px;
   font-size: 10px;
   text-align: center;
 }

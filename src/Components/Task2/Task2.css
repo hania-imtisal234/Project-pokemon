@@ -1,0 +1,48 @@
+.Time {
+  width: 250px;
+  padding: 5px;
+  margin-right: 20px;
+}
+
+day {
+  width: 20px;
+}
+
+.night {
+  border-radius: 10px;
+  width: 20px;
+}
+
+.day-night-btn {
+  width: 80px;
+  height: 30px;
+  margin-bottom: 10px;
+
+  margin-right: 10px;
+  background-color: darkcyan;
+  border-color: darkcyan;
+  color: white;
+  margin-top: 10px;
+}
+.btn-label {
+  color: black;
+  font-size: 12px;
+  margin-top: 50px;
+  margin-bottom: -5px;
+  text-align: center;
+}
+
+.task2 {
+  height: 450px;
+  text-align: center;
+}
+
+.img-display {
+  text-align: center;
+}
+
+.img-night {
+  margin-top: 50px;
+  margin-left: 30px;
+  text-align: center;
+}
