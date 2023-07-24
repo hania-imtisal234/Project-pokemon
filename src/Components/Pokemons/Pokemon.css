@@ -1,0 +1,13 @@
+.card-containers {
+  display: flex;
+  flex-direction: column;
+}
+
+.pokemon-card {
+  padding: 20px;
+}
+
+.pokemons {
+  display: flex;
+  flex-direction: column;
+}
