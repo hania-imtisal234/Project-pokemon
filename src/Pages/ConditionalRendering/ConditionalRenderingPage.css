@@ -1,0 +1,14 @@
+.tasks {
+  display: flex;
+}
+
+.task2 {
+  height: 250px;
+  margin-left: 50px;
+}
+
+.Conditional-Rendering {
+  display: flex;
+  justify-content: space-around;
+  height: 450px;
+}

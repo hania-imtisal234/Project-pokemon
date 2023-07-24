@@ -1,0 +1,46 @@
+.header {
+  width: 245px;
+  height: 100px;
+  margin-top: -60px;
+}
+
+h3 {
+  text-align: left;
+  color: #057be7;
+}
+.label {
+  color: #057be7;
+  margin-bottom: 5px;
+}
+.recent {
+  color: black;
+  margin-top: 2px;
+  font-size: 20px;
+}
+
+h6 {
+  color: #777781;
+  margin-top: -18px;
+  font-size: 10px;
+}
+
+.logins {
+  text-align: left;
+  padding: none;
+  margin: none;
+}
+
+img {
+  height: 158px;
+}
+
+.recentCards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.accounts {
+  height: 350px;
+  width: 450px;
+}
